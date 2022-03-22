@@ -1,4 +1,4 @@
-# This is for rinkbey testnet
+# This is for Avalanche network.
 
 # Getting Started with Create React App
 
